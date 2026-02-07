@@ -36,8 +36,9 @@ alone.
 
 Additional project context and implementation details are available in the documentation folder.
  
-  - 📄 **Implementation Narrative (DOCX):**  
-  [Download the implementation narrative](https://github.com/MCSquared2/implementation-analytics-portfolio/blob/main/documentation/Implementation_Analytics_Portfolio_Project.docx)
+ 📄 **Implementation Narrative (DOCX)**  
+[Download the implementation narrative](https://raw.githubusercontent.com/MCSquared2/implementation-analytics-portfolio/main/documentation/Implementation_Analytics_Portfolio_Project.docx)
+
 
 
 
