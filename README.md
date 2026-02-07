@@ -40,11 +40,18 @@ Additional project context and implementation details are available in the docum
 
 Additional project context and implementation details are available below.
 
-- 📄 **Implementation Narrative (DOCX)**  
-  [Download the implementation narrative](https://raw.githubusercontent.com/MCSquared2/implementation-analytics-portfolio/main/documentation/Implementation_Analytics_Portfolio_Project.docx)
+## Documentation
 
-- 📁 **Supporting Documentation**  
+Additional project context and implementation details are available below.
+
+- 📄 **Implementation Narrative (DOCX)**  
+  [Download the implementation narrative](
+  https://github.com/MCSquared2/implementation-analytics-portfolio/blob/main/documentation/Implementation_Analytics_Portfolio_Project.docx?raw=true
+  )
+
+- 📁 **Documentation Folder**  
   https://github.com/MCSquared2/implementation-analytics-portfolio/tree/main/documentation
+
 
 
 
