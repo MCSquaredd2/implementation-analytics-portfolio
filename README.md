@@ -32,3 +32,14 @@ This project emphasizes implementation readiness, validation, and
 stakeholder-focused documentation rather than exploratory analytics
 alone.
 
+## Documentation
+
+Additional project context and implementation details are available in the documentation folder.
+
+- 📄 **Implementation Narrative (DOCX):**  
+  https://github.com/MCSquared2/implementation-analytics-portfolio/blob/main/documentation/Implementation_Analytics_Portfolio_Project.docx
+
+- 📁 **Documentation Folder:**  
+  https://github.com/MCSquared2/implementation-analytics-portfolio/tree/main/documentation
+
+
