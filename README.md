@@ -68,4 +68,11 @@ This project emphasizes clarity, restrained visual design, and strict alignment 
 ## How to Use
 - Review the dashboard screenshot for a high-level summary of findings  
 - Use the interactive Power BI report (if shared) to explore delay behavior by aircraft size  
-- Reference the Key Findings section for a concise summary of operational insights  
+- Reference the Key Findings section for a concise summary of operational insights
+
+## Dashboard Preview
+
+![Flight Operations Delay Risk Dashboard](visuals/Dashboard%20power%20bi%20flights.png)
+
+*Final Power BI dashboard visualizing delay severity and operational risk by aircraft size.*
+
