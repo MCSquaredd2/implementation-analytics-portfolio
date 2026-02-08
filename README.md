@@ -75,7 +75,7 @@ This project emphasizes clarity, restrained visual design, and strict alignment 
 ![Flight Operations Delay Risk Dashboard](visuals/Dashboard%20power%20bi%20flights.png)
 
 **Interactive Power BI report:**  
-https://app.powerbi.com/view?r=https://app.powerbi.com/links/l3CMxJ7y8s?ctid=389b2929-5a30-4683-9c8c-1d21434d57e7&pbi_source=linkShare&bookmarkGuid=00616df6-efad-4ed8-ba96-6229e2ab2dbf 
+https://app.powerbi.com/links/l3CMxJ7y8s?ctid=389b2929-5a30-4683-9c8c-1d21434d57e7&pbi_source=linkShare&bookmarkGuid=00616df6-efad-4ed8-ba96-6229e2ab2dbf 
 
 *Final Power BI dashboard visualizing delay severity and operational risk by aircraft size.*
 
